@@ -1,0 +1,11 @@
+{
+  "accentColor": "#4da9ff",
+  "theme": "obsidian",
+  "cssTheme": "Things",
+  "baseFontSize": 19,
+  "translucency": false,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "baseFontSizeAction": true,
+  "monospaceFontFamily": "Cascadia Code"
+}

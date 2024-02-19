@@ -1,0 +1,18 @@
+{
+  "pane-relief@@pane-relief-pane-numbering": false,
+  "ITS@@font": "'Tektur Medium', serif",
+  "ITS@@select": "none",
+  "ITS@@slrvb-g": false,
+  "ITS@@slrvb-b": false,
+  "ITS@@s-d": false,
+  "ITS@@t-d": false,
+  "ITS@@drwn": false,
+  "ITS@@nord": false,
+  "ITS@@mini": true,
+  "ITS@@notion": false,
+  "ITS@@its-d": false,
+  "ITS@@accent-color": true,
+  "ITS@@alt-chkbx-off": false,
+  "ITS@@check-bg": false,
+  "minimal-advanced@@cursor": "default"
+}
